@@ -1,0 +1,75 @@
+{
+    "zh": [{
+        "name": "库存管理",
+        "index": "0",
+        "children": [{
+            "path": "/wms/home/detail",
+            "title": "库存明细",
+            "index": "0-0"
+        }]
+    }, {
+        "name": "入库管理",
+        "index": "1",
+        "children": [{
+            "path": "/wms/home/preStorage",
+            "title": "预入库管理",
+            "index": "1-0"
+        }, {
+            "path": "/wms/home/putInStorage",
+            "title": "入库单管理",
+            "index": "1-1"
+        }]
+    }, {
+        "name": "出库管理",
+        "index": "2",
+        "children": [{
+            "path": "/wms/home/preOutStorage",
+            "title": "预出库管理",
+            "index": "2-0"
+        }, {
+            "path": "/wms/home/outStorage",
+            "title": "出库单管理",
+            "index": "2-1"
+        }]
+    }, {
+        "name": "过户管理",
+        "index": "3",
+        "children": [{
+            "path": "/wms/home/preTransfer",
+            "title": "预过户管理",
+            "index": "3-0"
+        }, {
+            "path": "/wms/home/transfer",
+            "title": "过户单管理",
+            "index": "3-1"
+        }]
+    }, {
+        "name": "移库管理",
+        "index": "4",
+        "children": [{
+            "path": "/wms/home/moveStorage",
+            "title": "移库单管理",
+            "index": "4-0"
+        }]
+    }, {
+        "name": "盘点管理",
+        "index": "5",
+        "children": [{
+            "path": "/wms/home/check",
+            "title": "盘点单管理",
+            "index": "5-0"
+        }]
+    }, {
+        "name": "基础资料",
+        "index": "6",
+        "children": [{
+            "path": "/wms/home/enterprise",
+            "title": "企业管理",
+            "index": "6-0"
+        }, {
+            "path": "/wms/home/warehouse",
+            "title": "仓库管理",
+            "index": "6-1"
+        }]
+    }]
+}
